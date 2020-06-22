@@ -190,3 +190,6 @@ hs_err_pid*
 .idea/modules.xml
 .idea/vcs.xml
 *.txt
+!/sauvegarde-jeu.txt
+!/zz-swing-jeuAvion.iml
+!/cda-avion1.iml
