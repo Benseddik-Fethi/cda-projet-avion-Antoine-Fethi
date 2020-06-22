@@ -190,5 +190,5 @@ hs_err_pid*
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-.iml
-sauvegarde-jeu.txt
+*.iml
+*.txt
